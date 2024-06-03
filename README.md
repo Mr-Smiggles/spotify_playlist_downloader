@@ -1,2 +1,2 @@
-"Want a break from the ads?" the free Spotify teir mocks to me. Except I'm too petty to pay for premium. So I'm making my own with this Spotify playlist downloader.
+"Want a break from the ads?" the free Spotify teir mocks to me. Except I'm too petty to pay for premium, so I'm making my own with this Spotify playlist downloader.
 Spotify Playlist Downloader's end goal is to download every song from a playlist given to it with youtube-dl. It's still early in development and probably won't be done for a while. Right now it can fetch a list of up to 100 songs in a playlist and (if set up with pathnames) write them all to a file.
