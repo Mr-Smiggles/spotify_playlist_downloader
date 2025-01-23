@@ -1,2 +1,3 @@
-"Want a break from the ads?" the free Spotify teir mocks to me. Except I'm too petty to pay for premium, so I'm making my own with this Spotify playlist downloader.
-Spotify Playlist Downloader's end goal is to download every song from a playlist given to it with youtube-dl. It's still early in development and probably won't be done for a while. Right now it can fetch a list of up to 100 songs in a playlist and (if set up with pathnames) write them all to a file.
+***"Want a break from the ads?"*** The free Spotify tier mocks to me. I'm too petty to pay for premium, so I decided to get my music offline and bypass Spotify altogether.
+Spotify Playlist Downloader's end goal is to download every song from a playlist given to it from youtube-dl. It's still early in development and probably won't be done for a while. Right now it can fetch a list of up to 100 songs in a playlist and (if set up with pathnames) write them all to a file. The future goal is to get a list of the songs in a given playlist and download them from some other site for offline listening.
+
