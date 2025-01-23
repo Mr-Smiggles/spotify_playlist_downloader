@@ -38,7 +38,7 @@ def get_playlist_tracks(token, playlist_id):
   
 
 token = get_token()
-playlist_id = "3ooUm15rfh1ykPCptwLFPg"
+playlist_id = "[playlist_id]"
 result_raw = get_playlist_tracks(token, playlist_id)
 result_str = str(result_raw)
 
